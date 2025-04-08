@@ -32,9 +32,11 @@ O layout utilizado foi fornecido pela Pigz via Adobe XD:
 
 ### 🔻 Tela de Login (preview)
 
-![Login Screenshot](./screenshots/login.png)
-![Dashboard Screenshot](./screenshots/Dashboard.png)
-![Entrega Screenshot](./screenshots/Entrega.png)
+<p float="left">
+ <img src="./screenshots/login.png" width="300" />
+<img src="./screenshots/Dashboard.png" width="300" />
+<img src="./screenshots/Entrega.png" width="300" />
+</p>
 
 ---
 
